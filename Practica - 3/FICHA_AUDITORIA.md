@@ -1,6 +1,6 @@
 Mi recomendación
 
-Recomendamos aprobar con condiciones porque encontramos indicios de posibles sesgos entre grupos, aunque el modelo obtuvo una accuracy aproximada del 85%. La evidencia principal fue que variables como relationship actuaron como proxies de atributos sensibles, además de diferencias en el desempeño entre grupos. Antes de implementarlo debería evaluarse la equidad con métricas por grupo, revisar las variables proxy y realizar pruebas adicionales en distintos contextos.
+Recomiendo aprobar con condiciones porque encontramos indicios de posibles sesgos entre grupos, aunque el modelo obtuvo una accuracy aproximada del 85%. La evidencia principal fue que variables como relationship actuaron como proxies de atributos sensibles, además de diferencias en el desempeño entre grupos. Antes de implementarlo debería evaluarse la equidad con métricas por grupo, revisar las variables proxy y realizar pruebas adicionales en distintos contextos.
 
 Hallazgo
 
